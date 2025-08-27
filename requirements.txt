@@ -4,4 +4,6 @@ pypdf==6.0.0
 pdfplumber==0.11.7
 docx2txt==0.9
 spacy==3.8.7
-transformers
+sentence-transformers==5.1.0
+langchain_groq
+python-dotenv
